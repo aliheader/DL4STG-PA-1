@@ -1,0 +1,2 @@
+config,seeds,anchored,P,E,first_time_idx,last_time_idx,forecast_mean,forecast_min,forecast_max,recent_720_mean
+C_small,"0,1,2",False,19683,33,43657,43824,97.67146316086794,3.398106371599136,181.65322623934586,90.01527777777778

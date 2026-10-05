@@ -1,0 +1,11 @@
+config,covariates,past_cov,future_cov,encoder_channels,decoder_channels,P
+A,0,False,False,1,1,21441
+B,10,True,False,11,1,22401
+C,10,True,True,11,11,23361
+C_subset,4,True,True,5,5,22209
+C_cal,11,True,True,12,12,23553
+C_small,10,True,True,11,11,6561
+C_small_wl,10,True,True,11,11,6561
+C_small_wlr,10,True,True,11,11,6561
+C_small_wlrd,10,True,True,11,11,6562
+C_small_d,10,True,True,11,11,6562

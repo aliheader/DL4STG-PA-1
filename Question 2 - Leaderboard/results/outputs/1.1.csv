@@ -1,0 +1,9 @@
+method,rmse_mean,rmse_std,mae_mean,smape_mean,mean_rank,expected (FINDINGS §6)
+damped persistence -> mean last 720,107.06,23.24,84.73,86.5,3.33,107.31
+global mean,109.15,29.32,88.22,91.97,3.25,109.15
+mean of last 168,111.64,29.01,90.62,90.93,3.17,111.64
+"hour-of-day mean, last 28 days",113.12,23.55,91.53,92.13,3.75,113.12
+median of last 720,114.67,35.84,87.01,93.61,4.83,114.67
+mean of last 720,114.73,23.72,93.51,93.82,4.67,114.73
+seasonal naive (repeat last 168),157.85,35.6,121.93,108.74,7.33,157.85
+persistence (repeat last value),173.98,106.94,142.48,104.12,5.67,173.98
